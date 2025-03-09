@@ -98,7 +98,7 @@ The following models were trained and evaluated:
 ## Future Improvements
 - Optimize hyperparameters for better model performance.
 - Implement deep learning models for potential accuracy improvement.
-- 
+
 ---
 
 ## Contributing
