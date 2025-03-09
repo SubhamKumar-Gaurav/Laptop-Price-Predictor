@@ -115,7 +115,7 @@ This project is licensed under the MIT License.
 **Author:** Subham Kumar Gaurav  
 For any questions or feedback, please reach out to:
 
-Subham Kumar Gaurav: subhamgaurav2001@gmail.com  
+Subham Kumar H : subhamgaurav2001@gmail.com  
 GitHub: [SubhamKumar-Gaurav](https://github.com/SubhamKumar-Gaurav)
 LinkedIn: ([Subham Kumar H](https://www.linkedin.com/in/subham-kumar-h-158395216/))
 
