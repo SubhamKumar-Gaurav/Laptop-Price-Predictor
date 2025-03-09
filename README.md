@@ -48,8 +48,13 @@ The dataset consists of various laptop specifications, including:
 ## Models Used
 The following models were trained and evaluated:
 - **Linear Regression**
+- **Ridge Regression**
+- **Lasso Regression**
 - **Decision Tree**
 - **Support Vector Machine (SVM)**
+- **K Nearest Neighbours (KNN)**
+- **AdaBoost**
+- **Gradient Boost**
 - **Random Forest** (Best Model: **88% Accuracy**)
 
 ---
