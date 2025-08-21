@@ -1,6 +1,9 @@
 # Laptop Price Predictor
-Check it out here: https://laptop-price-predictor-subhamkumar-h.streamlit.app/ 
+
+ Predict your laptop's price here: https://laptop-price-predictor-subhamkumar-h.streamlit.app/ 
+ 
 <img src="https://github.com/SubhamKumar-Gaurav/Laptop-Price-Predictor/blob/main/images/lpp1.png">
+
 <img src="https://github.com/SubhamKumar-Gaurav/Laptop-Price-Predictor/blob/main/images/lpp2.png">
 
 The **Laptop Price Predictor** is a machine learning project that aims to predict the price of laptops based on various features. The dataset underwent thorough cleaning, exploratory data analysis (EDA), and feature engineering to enhance model performance. Multiple models were trained and evaluated, with **Random Forest** achieving the highest accuracy of **88%**, making it the preferred model for this project.
