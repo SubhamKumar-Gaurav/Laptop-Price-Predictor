@@ -1,5 +1,5 @@
 # Laptop Price Predictor
-
+Check it out here: https://laptop-price-predictor-subhamkumar-h.streamlit.app/ 
 <img src="https://github.com/SubhamKumar-Gaurav/Laptop-Price-Predictor/blob/main/images/lpp1.png">
 <img src="https://github.com/SubhamKumar-Gaurav/Laptop-Price-Predictor/blob/main/images/lpp2.png">
 
